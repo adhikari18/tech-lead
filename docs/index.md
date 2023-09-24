@@ -4,8 +4,6 @@
  <br />
 [Building a team](build-a-team.md)
  <br />
-[Joining a team](joining-a-team.md)
- <br />
 [Architecture Decisions](architecture-decisions.md)
  <br />
 [Code Quality](code-quality.md)
