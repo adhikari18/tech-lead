@@ -49,4 +49,16 @@ extra:
 
 nav:
     - 'index.md'
-    - 'git.md'
+    - 'responsibilities.md'
+    - 'build-a-team.md'
+    - 'joining-a-team.md'
+    - 'architecture-decisions.md'
+    - 'code-quality.md'
+    - 'assign-work.md'
+    - 'mentoring.md'
+    - 'prioritize.md'
+    - 'manage-time.md'
+    - 'delayed-delivery.md'
+
+
+
