@@ -20,6 +20,8 @@
  <br />
 [Delayed Delivery](delayed-delivery.md)
  <br />
+[Feature design](feature-design.md)
+ <br />
 
 
 
